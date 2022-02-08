@@ -1,4 +1,4 @@
-package date20220113;
+package Bakjoon;
 
 import java.util.Scanner;
 
